@@ -27,8 +27,12 @@
 *.fls
 *.pdf
 *.fdb_latexmk
-cvx*.pdf
 dcp.pdf
 *.DS_Store
 .ipynb_checkpoints
 exercises/*_sltn.ipynb
+
+.idea
+book/_build
+.venv
+.ruff_cache
